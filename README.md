@@ -1,6 +1,6 @@
 # Student Result Management System (Console-Based)
 
-**Software Engineering (SEN) Assignment – January 2026**
+(SEN201) Assignment 
 
 **Student Information**  
 - **Name**: Odujebe ibidola bright  
@@ -28,4 +28,5 @@
 ## How to Run
 
 ```bash
+
 python result_manager.py
